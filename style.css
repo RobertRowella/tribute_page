@@ -1,0 +1,55 @@
+#main {
+    background-color: #2d4f78;
+    font-size: 20px;
+    font-family: helvetica;
+    width: 100%;
+  }
+  
+  #title {
+    background-image: url("https://www.thenation.com/wp-content/uploads/2016/12/childish_gambino_otu_img.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #f4d171;
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    bottom: 20px;
+    opacity: 0.8;
+  }
+  
+  h1 {
+    position: absolute;
+    top: 50px;
+    left: 40px;
+    font-size: 10vw;
+  }
+  
+  h3 {
+    font-size: 8vw;
+    padding-left: 50px;
+  }
+  
+  #tribute-info {
+    color: #f4d171;
+    text-align: center;
+  }
+  
+  hr {
+    color: #f4d171;
+    border: 2px solid;
+    border-radius: 1px;
+  }
+  
+  iframe {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  #tribute-link {
+    color: #f4d171;
+    text-align: center;
+    font-size: 14px;
+  }
+  
